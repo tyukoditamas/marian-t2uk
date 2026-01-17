@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.app</groupId>
-    <artifactId>marian-t2uk</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>t2uk</artifactId>
+    <version>1.0</version>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
